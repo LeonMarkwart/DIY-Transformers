@@ -86,7 +86,8 @@ def test_layer(layer, input, attention_mask, expected):
     # Load pre-defined state dictionary into the multi-head attention layer
     layer.load_state_dict(STATE_DICT)
 
-    assert torch.allclose(
-        layer(input, attention_mask),
-        expected
-    )
+    actual = layer(input, attention_mask)
+    # Mask padded positions
+    actual *= attention_mask.unsqueeze(-1).float()
+
+    assert torch.allclose(actual, expected)

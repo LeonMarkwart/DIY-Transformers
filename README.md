@@ -29,3 +29,5 @@ Submission Deadline:
 Final Report Due Date: 4th March 2024, 12:00 PM
 
 Presentation Dates: The presentations will be scheduled in the weeks following the report submission. Exact dates and times will be announced closer to the deadline.
+
+Please send your final report to: niekerk@hhu.de with the subject "Implementing Transformer Model Final Handin"

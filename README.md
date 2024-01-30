@@ -22,6 +22,8 @@ Your report should be comprehensive yet concise, adhering to a maximum word limi
 
 Please include a word count at the end of your report. Note that equations are exempt from the word count.
 
+Remember to send your code together with your report. You can either add a link to your git repo (remember to grant me access) or a copy of your code (compressed).
+
 Presentation: Prepare a 10-minute presentation that highlights the most important aspects of your report.
 
 Submission Deadline:

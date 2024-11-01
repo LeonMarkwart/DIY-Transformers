@@ -24,7 +24,7 @@ Email: cvanniekerk@hhu.de / linh@hhu.de
 | 2    | 14-18.10.2024 | Practical 2: Introduction to Unit Tests and Masked Attention |                                                |
 | 3    | 21-25.10.2024 | Practical 3: Tokenization                               | Test 1 |
 | 4    | 28-31.10.2024 | Practical 4: Data Preparation and Embedding Layers      |                                                |
-| 5    | 4-8.11.2024   | Practical 5: Multi-Head Attention Blocks                |                                                |
+| 5    | 4-8.11.2024   | Practical 5: Multi-Head Attention and Transformer Encoder                |                                                |
 | 6    | 11-15.11.2024 | Practical 6: Transformer Encoder and Decoder Layers     |             |
 | 7    | 18-22.11.2024 | Practical 6: Transformer Encoder and Decoder Layers     | Test 2   |
 | 8    | 25-29.11.2024 | Practical 7: Complete Transformer Model                 |                                                |

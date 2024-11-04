@@ -70,6 +70,8 @@ Submit a compressed copy of your code files.
 Prepare a 10-minute presentation highlighting the most important aspects of your report.
 The presentation should focus on key insights, challenges, and outcomes from your project.
 
-Submission Deadline will be announced in due course.
+**Submission Deadlines.**
+- Report: 29.01.2025
+- Presentation dates: 3-5.02.2025
 
 Good luck, and I look forward to seeing the results of your hard work!

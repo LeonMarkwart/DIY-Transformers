@@ -30,9 +30,9 @@ Email: cvanniekerk@hhu.de / linh@hhu.de
 | 8    | 25-29.11.2024 | Practical 7: Complete Transformer Model                 |                                                |
 | 9    | 2-6.12.2024   | Practical 8: Training and Learning rate Schedules       |                                                |
 | 10   | 9-13.12.2024  | Practical 9: Training the model                        | Test 3      |
-| 11   | 16-20.12.2024 | Practical 10: Training the model                       |                                                |
-| 12   | 6-11.01.2025  | Practical 11: Autoregressive Generation and Evaluation |                                                |
-| 13   | 13-17.01.2025 | Practical 12: GPU Training (Colab)                     |                                                |
+| 11   | 16-20.12.2024 | Practical 9: Training the model                       |                                                |
+| 12   | 6-11.01.2025  | Practical 10: Autoregressive Generation and Evaluation |                                                |
+| 13   | 13-17.01.2025 | Practical 11: GPU Training (Colab)                     |                                                |
 | 14   | 20-24.01.2025 |                                                        | Test 4          |
 
 ## Evaluation

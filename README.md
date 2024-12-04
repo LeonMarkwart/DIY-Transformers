@@ -60,11 +60,42 @@ Your report should be comprehensive yet concise, ensuring that it is self-contai
 A brief introduction is recommended, providing an overview of the transformer model and laying the groundwork for the report.
 The report must include experimental results and responses to the questions from the practical sheets. When incorporating responses, ensure they are seamlessly integrated into the narrative rather than being presented in a Q&A format.
 Conclude the report with a summary that encapsulates the main findings and insights gained from the practicals.
+
 Structure: While your report may follow the structure of a standard research paper, it is important that your content and perspective are original. It must not simply replicate the "Attention Is All You Need" paper, but instead should provide your unique insights and understanding based on the course work.
+
 Word Count: Please include the word count at the end of your report. Note that equations are exempt from the word count.
+
 Code Submission: Your code should be submitted along with your report. You may either:
 Include a link to your Git repository (make sure to grant me access), or
 Submit a compressed copy of your code files.
+
+Note: To achieve a distinction final grade, your report should not only illustrate an understanding of the course material but also demonstrate originality and creativity. To do so it is required to include a extra small-scale experiments orand analysis of some variation to the transformer model, the task, the training setup etc. Find below a list of potential project topics to inspire you.
+
+**Potential Project Topics:**
+
+- Linear / Window-size Attention
+  - Compare the computational complexity with that of the standard attention mechanism.
+  - What are the positives and drawbacks of this approach?
+  - Small scale (synthetic data) experiments to demonstrate the effectiveness of this approach.
+- Decoder-only and or Encoder-only Transformer
+  - What are the advantages and disadvantages of training a decoder-only or encoder-only transformer?
+  - Why are modern LLMs decoder-only?
+  - Small scale (synthetic data) experiments to demonstrate the effectiveness of this approach.
+- Fine-tuning vs Soft-Prompting
+  - Compare the performance of fine-tuning vs soft-prompting on a specific task.
+  - How does LoRA fine tuning work?
+  - What are the advantages and disadvantages of each approach?
+  - Small scale (synthetic data) experiments to demonstrate the effectiveness of this approach (Test using the sort increasing, decreasing +1 and +2 synthetic task on a sequence of numbers).
+- Trainable vs Sinusoidal Positional Encodings
+  - Compare the performance of trainable vs sinusoidal positional encodings.
+  - What are the advantages and disadvantages of each approach?
+  - Small scale (synthetic data) experiments to demonstrate the effectiveness of this approach.
+  - Can sinusoidal positional encodings really generalise to unseen lengths?
+- GPU Training
+  - Compare the training time of the transformer model on a CPU vs GPU.
+  - What are the advantages and disadvantages of training on a GPU?
+  - What kind of tasks can a GPU perform.
+  - How can one estimate how much memory is required for a specific task?
 
 **Presentation Guidelines:**
 Prepare a 10-minute presentation highlighting the most important aspects of your report.

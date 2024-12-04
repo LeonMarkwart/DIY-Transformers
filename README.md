@@ -69,18 +69,18 @@ Code Submission: Your code should be submitted along with your report. You may e
 Include a link to your Git repository (make sure to grant me access), or
 Submit a compressed copy of your code files.
 
-Note: To achieve a distinction final grade, your report should not only illustrate an understanding of the course material but also demonstrate originality and creativity. To do so it is required to include a extra small-scale experiments orand analysis of some variation to the transformer model, the task, the training setup etc. Find below a list of potential project topics to inspire you.
+Note: To achieve a distinction final grade, your report should not only illustrate an understanding of the course material but also demonstrate originality and creativity. To do so it is required to include a extra small-scale experiments and analysis of some variation to the transformer model, the task, the training setup etc. Find below a list of potential project topics to inspire you.
 
 **Potential Project Topics:**
 
 - Linear / Window-size Attention
   - Compare the computational complexity with that of the standard attention mechanism.
   - What are the positives and drawbacks of this approach?
-  - Small scale (synthetic data) experiments to demonstrate the effectiveness of this approach.
+  - Small scale (synthetic data) experiments to demonstrate the effectiveness of such an approach.
 - Decoder-only and or Encoder-only Transformer
   - What are the advantages and disadvantages of training a decoder-only or encoder-only transformer?
   - Why are modern LLMs decoder-only?
-  - Small scale (synthetic data) experiments to demonstrate the effectiveness of this approach.
+  - Small scale (synthetic data) experiments to demonstrate the effectiveness of such an approach.
 - Fine-tuning vs Soft-Prompting
   - Compare the performance of fine-tuning vs soft-prompting on a specific task.
   - How does LoRA fine tuning work?

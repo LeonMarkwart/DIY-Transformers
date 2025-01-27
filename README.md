@@ -105,4 +105,8 @@ The presentation should focus on key insights, challenges, and outcomes from you
 - Report: 29.01.2025
 - Presentation dates: 3-5.02.2025
 
+**Submission:**
+- Remember to send your code together with your report. You can either add a link to your git repo (remember to grant me access) or a copy of your code (compressed).
+- Please send your final report to: cvanniekerk@hhu.de with the subject "Implementing Transformer Model Final Handin"
+
 Good luck, and I look forward to seeing the results of your hard work!

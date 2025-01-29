@@ -1,0 +1,8 @@
+torch==2.6.0.dev20241018
+torchvision==0.15.2a0
+tqdm==4.66.4
+transformers==4.40.0
+pytorch-lightning==2.3.0
+evaluate==0.4.3
+datasets==3.2.0
+scikit-learn==1.6.0

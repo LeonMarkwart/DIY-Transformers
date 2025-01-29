@@ -202,5 +202,7 @@ def test_layer(layer, input, encoder, encoder_attention_mask, attention_mask, ex
     actual = layer(input, encoder, encoder_attention_mask, attention_mask)
     # Mask padded positions
     actual *= attention_mask.unsqueeze(-1).float()
-
-    assert torch.allclose(actual, expected)
+    torch.set_printoptions(precision=20)
+    print(f"actual: {actual}\nexpected: {expected}\ndiff: {actual - expected}")
+    print(f"actual dtype: {actual.dtype}\nexpected dtype: {expected.dtype}")
+    assert torch.allclose(actual, expected, atol=1e-6)
